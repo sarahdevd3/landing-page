@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    text-align:center;
+    justify-content: center;
+    align-items:center;
+}
+
+.link{
+   margin-top:200px;
+}
+.text {
+	margin-top: 200px;
+	width: 300px;
+	margin-left: -100px;
+	line-height: 2;
+}
